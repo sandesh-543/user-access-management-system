@@ -31,7 +31,7 @@ The User Access Management System is a web-based application that enables users 
 ### Steps to Run the Project 🏃‍♂️
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/user-access-management-system.git
+   git clone https://github.com/DhruvGupta130/user-access-management-system.git
    ```
 
 2. **Build the Project**:
